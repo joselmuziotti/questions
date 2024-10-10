@@ -55,7 +55,7 @@ Questions
 .section-center {
   max-width: var(--fixed-width);
 }
-.question {
+.questions {
   background: var(--clr-white);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
